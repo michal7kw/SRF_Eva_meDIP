@@ -1,0 +1,5 @@
+"Group","N_Peaks","Description"
+"Enhancers_DEGs_DOWN_with_DMR",2,"Non-promoter peaks linked to DEGs DOWN, WITH high-conf DMR (MOST RELIABLE)"
+"Enhancers_DEGs_DOWN_no_DMR",10102,"Non-promoter peaks linked to DEGs DOWN, NO high-conf DMR"
+"Enhancers_DEGs_DOWN_all",10104,"All non-promoter peaks linked to DEGs DOWN"
+"Enhancers_Random_Control",2,"Non-promoter peaks linked to Non-DE genes (matched control)"

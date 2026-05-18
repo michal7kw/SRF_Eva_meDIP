@@ -1,0 +1,17 @@
+Sample: GFP-2-IP
+Date: Tue Dec  9 12:49:15 AM CET 2025
+
+Input:
+  BAM file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/04_filtered/GFP-2-IP_filtered_dedup.bam
+  BAM size: 627MiB
+  Total reads: 8534274
+
+Output:
+  BigWig file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/05_bigwig/GFP-2-IP_RPKM.bw
+  BigWig size: 41MiB
+
+Parameters:
+  Bin size: 10 bp
+  Normalization: RPKM
+  Effective genome size: 2913022398
+  Extend reads: Yes

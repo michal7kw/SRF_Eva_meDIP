@@ -1,0 +1,78 @@
+# ==========================
+# System & IDE
+# ==========================
+.DS_Store
+.vscode/
+.idea/
+.claude/
+# CLAUDE.md
+
+# ==========================
+# R Environment
+# ==========================
+*.RData
+*.Rhistory
+*.rds
+
+# ==========================
+# Logs & Output
+# ==========================
+*.log
+*.err
+*.out
+**/logs/
+2025-11-03-medipscriptslogs07differentialmethylationer.txt
+
+# ==========================
+# Sequencing Data (Raw & Aligned)
+# ==========================
+*.fastq
+*.gz
+*.zip
+*.sam
+*.bam
+*.bai
+
+# ==========================
+# Analysis Data (Peaks, Coverage, etc.)
+# ==========================
+*.bed
+*.bw
+*.bigWig
+*.narrowPeak
+*.gappedPeak
+*.xls
+*.tab
+*.parquet
+*.json
+*.xml
+# *.html
+# *.csv
+
+# Specific large result files
+*_all_windows.csv
+*_MA_plot.pdf
+# *_volcano_plot.pdf
+
+# Optional: PDF reports (uncomment to ignore all PDFs)
+# *.pdf
+
+# ==========================
+# Directories
+# ==========================
+config/
+coverage/
+data/
+# fastq/
+# peaks/
+Legacy/
+**/old/
+
+# Specific results directories
+results/medip_multiqc_report_data
+# results/17_dmr_heatmaps/heatmaps
+
+################################################################################
+# Local-only documentation (kept on disk, never committed/pushed)
+################################################################################
+*.md

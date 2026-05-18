@@ -1,0 +1,17 @@
+Sample: TES-1-IP
+Date: Tue Dec  9 12:46:36 AM CET 2025
+
+Input:
+  BAM file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/04_filtered/TES-1-IP_filtered_dedup.bam
+  BAM size: 1.4GiB
+  Total reads: 19064570
+
+Output:
+  BigWig file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/05_bigwig/TES-1-IP_RPKM.bw
+  BigWig size: 88MiB
+
+Parameters:
+  Bin size: 10 bp
+  Normalization: RPKM
+  Effective genome size: 2913022398
+  Extend reads: Yes

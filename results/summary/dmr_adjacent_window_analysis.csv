@@ -1,0 +1,8 @@
+metric,value
+Total_DMRs,31905
+DMRs_with_adjacent_neighbors,7680
+Pct_with_neighbors,24.1
+Isolated_DMRs,24225
+N_independent_clusters,27789
+Mean_DMRs_per_cluster,1.15
+Max_cluster_width_bp,4502

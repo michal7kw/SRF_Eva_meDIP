@@ -1,0 +1,7 @@
+threshold,n_dmrs,pct_hyper,hyper_dominant,correlation,weak_correlation
+Very_Relaxed,61813,88.1,TRUE,0.0745,TRUE
+Relaxed,31919,91,TRUE,0.0745,TRUE
+Standard,31905,91,TRUE,0.0745,TRUE
+Moderate,2468,93.1,TRUE,0.0333,TRUE
+Strict,2416,94.6,TRUE,0.0301,TRUE
+Very_Strict,388,93.6,TRUE,-0.0692,TRUE

@@ -1,0 +1,9 @@
+"Metric","Value"
+"Total genes analyzed",33946
+"Upregulated DEGs",3721
+"Downregulated DEGs",3860
+"Mean meDIP GFP",8.6
+"Mean meDIP TES",8.63
+"Median methylation change",0
+"Pearson correlation (meth vs expr)",0.044
+"Spearman correlation (meth vs expr)",0.042

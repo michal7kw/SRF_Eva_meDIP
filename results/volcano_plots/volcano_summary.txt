@@ -1,0 +1,22 @@
+meDIP Volcano Plot Summary
+Generated: 2026-01-13 14:10:48 
+========================================
+
+Input file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/08_annotation/TES_vs_GFP_annotated.csv 
+Total DMRs: 31905 
+
+Thresholds:
+  FDR cutoff: 0.05 
+  Fold change cutoff: 2 (logFC = 1 )
+
+DMR counts by significance:
+  All DMRs: 31905 
+  FDR < 0.05: 31905 
+  FDR < 0.05 & |FC| >= 2: 31905 
+    Hypermethylated: 29031 
+    Hypomethylated: 2874 
+
+DMR counts by annotation:
+
+    3' UTR     5' UTR Downstream       Exon Intergenic     Intron   Promoter 
+      1637        247         45       2592       6366      15191       5827 

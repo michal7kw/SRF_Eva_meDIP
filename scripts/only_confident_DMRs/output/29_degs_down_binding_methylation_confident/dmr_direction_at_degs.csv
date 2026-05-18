@@ -1,0 +1,3 @@
+"group","n_genes","n_genes_with_dmr","n_hyper_dmrs","n_hypo_dmrs","pct_hyper","pct_hypo"
+"DEGs_DOWN_with_binding",685,69,39,68,36.4485981308411,63.5514018691589
+"DEGs_DOWN_without_binding",3290,274,152,241,38.676844783715,61.323155216285

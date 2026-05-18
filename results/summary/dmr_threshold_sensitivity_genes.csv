@@ -1,0 +1,7 @@
+threshold,n_dmrs,n_unique_genes,n_promoter_dmrs,n_genebody_dmrs
+Very_Relaxed,61813,11692,5827,19667
+Relaxed,31919,11692,5827,19667
+Standard,31905,11692,5827,19667
+Moderate,2468,1608,524,1496
+Strict,2416,1598,523,1482
+Very_Strict,388,296,66,252

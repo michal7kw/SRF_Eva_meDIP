@@ -1,0 +1,4 @@
+"Group","N","Mean_diff","Pct_hypermethylated","Pct_hypomethylated","Reliability"
+"Unbound_with_DMR",454,-5.99438314537445,52.6431718061674,47.3568281938326,"HIGH (DMR overlap)"
+"Unbound_no_DMR",454,-0.83761000094399,54.1850220264317,45.1541850220264,"LOW (may have GFP dropout)"
+"TES_bound_all",15319,-1.54781733772875,45.420719368105,53.919968666362,"MIXED"

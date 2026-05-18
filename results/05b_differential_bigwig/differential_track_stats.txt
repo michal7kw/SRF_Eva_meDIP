@@ -1,0 +1,39 @@
+Differential Methylation Track Statistics
+==========================================
+Generated: Wed Dec 24 08:13:56 AM CET 2025
+Script: 05b_differential_bigwig.sh
+
+Sample Groups:
+  TES (treatment): TES-1-IP TES-2-IP
+  GFP (control): GFP-1-IP GFP-2-IP
+
+Parameters:
+  Bin size: 50 bp
+  Pseudocount (for log2): 1
+  Tool: deepTools bigwigCompare / bigwigAverage
+
+Output Files:
+  1. TES_averaged.bw - Mean of TES replicates
+  2. GFP_averaged.bw - Mean of GFP replicates
+  3. TES_vs_GFP_log2ratio.bw - log2(TES/GFP) differential track
+  4. TES_vs_GFP_subtract.bw - (TES - GFP) differential track
+
+Interpretation Guide:
+
+  Log2 Ratio Track:
+    +2 = 4-fold hypermethylated in TES
+    +1 = 2-fold hypermethylated in TES
+     0 = No change
+    -1 = 2-fold hypomethylated in TES
+    -2 = 4-fold hypomethylated in TES
+
+  Subtraction Track:
+    Positive values = Higher RPKM signal in TES
+    Negative values = Higher RPKM signal in GFP
+    Units: RPKM difference
+
+File Sizes:
+  GFP_averaged.bw: 109M
+  TES_averaged.bw: 175M
+  TES_vs_GFP_log2ratio.bw: 237M
+  TES_vs_GFP_subtract.bw: 241M

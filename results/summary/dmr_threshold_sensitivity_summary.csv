@@ -1,0 +1,7 @@
+Threshold,FDR_cutoff,log2FC_cutoff,FC_cutoff,N_DMRs,N_Hyper,N_Hypo,Pct_Hyper,Mean_absLogFC,Median_absLogFC
+Very_Relaxed,0.1,0.5,1.41,61813,54461,7352,88.1,4.33,5.19
+Relaxed,0.05,0.5,1.41,31919,29034,2885,91,4.65,5.43
+Standard,0.05,1,2,31905,29031,2874,91,4.65,5.43
+Moderate,0.01,1,2,2468,2298,170,93.1,4.79,4.18
+Strict,0.01,2,4,2416,2286,130,94.6,4.86,4.22
+Very_Strict,0.001,2,4,388,363,25,93.6,4.89,4.45

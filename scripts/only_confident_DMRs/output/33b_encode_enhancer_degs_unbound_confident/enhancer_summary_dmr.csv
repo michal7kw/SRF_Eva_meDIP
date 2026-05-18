@@ -1,0 +1,8 @@
+"Category","N_enhancers","Reliability"
+"TES_bound_DEGs_DOWN_with_DMR",1,"HIGH"
+"TES_bound_DEGs_DOWN_no_DMR",5018,"LOW (GFP dropout possible)"
+"TES_bound_DEGs_DOWN_all",5019,"MIXED"
+"TEAD1_only_DEGs_DOWN",4593,"MEDIUM"
+"Unbound_DEGs_DOWN_with_DMR",155,"HIGH - PRIMARY FOCUS"
+"Unbound_DEGs_DOWN_no_DMR",141369,"LOW (GFP dropout possible)"
+"Control",155,"MATCHED"

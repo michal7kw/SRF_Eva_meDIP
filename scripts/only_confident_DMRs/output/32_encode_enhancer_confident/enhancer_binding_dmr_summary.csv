@@ -1,0 +1,8 @@
+"Category","N_enhancers","Percentage","Note"
+"TES_bound_with_DMR",3,0.000449371553881896,"MOST RELIABLE for methylation"
+"TES_bound_no_DMR",15316,2.29419157308504,"May have GFP dropout issues"
+"TES_bound_all",15319,2.29464094463892,"All TES-bound"
+"TEAD1_only",15451,2.31441329300973,"TEAD1 but not TES"
+"Unbound_with_DMR",454,0.068004895154127,"RELIABLE for methylation"
+"Unbound_no_DMR",636375,95.3229408671972,"May have GFP dropout issues"
+"Total",667599,100,"Total ENCODE dELS enhancers"

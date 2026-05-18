@@ -1,0 +1,23 @@
+DMR Direction Analysis at TES Binding Sites
+============================================
+
+Date: 2026-01-13 10:05:19.937064 
+
+COUNTS:
+  TES peaks with HYPER DMRs: 71
+  TES peaks with HYPO DMRs:  107
+  Total TES peaks with DMR:  178
+
+PERCENTAGES:
+  At TES sites: 39.9% hyper / 60.1% hypo
+  Global:       91.0% hyper / 9.0% hypo
+
+FISHER'S EXACT TEST:
+  Odds Ratio: 0.064
+  95% CI: 0.046 - 0.087
+  p-value: 3.26e-65
+
+INTERPRETATION:
+  TES binding is significantly DEPLETED at hypermethylated DMRs.
+  This suggests TES binding PREVENTS methylation at direct targets,
+  while causing methylation at distal sites (indirect effect).

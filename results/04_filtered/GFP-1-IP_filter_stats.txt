@@ -1,0 +1,23 @@
+Sample: GFP-1-IP
+Date: Tue Dec  9 12:03:31 AM CET 2025
+
+Read Counts:
+  Initial reads: 96589656
+  After quality filtering: 56531680
+  After deduplication: 8724502
+
+Reads Removed:
+  By quality filters: 40057976
+  By deduplication: 47807178
+  Total removed: 87865154
+
+Percentages:
+  Retained (final/initial): 9.03%
+  Filtered by quality: 41.47%
+  Duplicates: 84.57%
+
+Filtering Criteria:
+  MAPQ threshold: 30
+  Properly paired: Required
+  Unmapped: Removed
+  Duplicates: Removed

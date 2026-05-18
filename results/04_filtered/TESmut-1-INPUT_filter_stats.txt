@@ -1,0 +1,23 @@
+Sample: TESmut-1-INPUT
+Date: Tue Dec  9 12:45:04 AM CET 2025
+
+Read Counts:
+  Initial reads: 40673626
+  After quality filtering: 30499882
+  After deduplication: 28295286
+
+Reads Removed:
+  By quality filters: 10173744
+  By deduplication: 2204596
+  Total removed: 12378340
+
+Percentages:
+  Retained (final/initial): 69.57%
+  Filtered by quality: 25.01%
+  Duplicates: 7.23%
+
+Filtering Criteria:
+  MAPQ threshold: 30
+  Properly paired: Required
+  Unmapped: Removed
+  Duplicates: Removed

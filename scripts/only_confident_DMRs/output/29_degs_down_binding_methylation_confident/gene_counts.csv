@@ -1,0 +1,6 @@
+"group","n_genes","description"
+"DEGs_DOWN_binding_DMR",69,"DEGs DOWN with binding AND high-confidence DMR"
+"DEGs_DOWN_binding_noDMR",616,"DEGs DOWN with binding but NO high-confidence DMR"
+"DEGs_DOWN_noBinding_DMR",274,"DEGs DOWN without binding but WITH high-confidence DMR"
+"DEGs_DOWN_noBinding_noDMR",3016,"DEGs DOWN without binding AND NO high-confidence DMR"
+"random_control",69,"Random expressed non-DE genes (matched N)"

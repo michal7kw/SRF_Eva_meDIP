@@ -1,0 +1,35 @@
+=======================================================
+HIGH-CONFIDENCE DMR FILTERING SUMMARY
+=======================================================
+Generated: 2026-01-13 20:16:14.983053 
+
+FILTERING CRITERIA:
+  - FDR < 0.05 (pre-applied)
+  - |logFC| > 1 (pre-applied)
+  - mean_group1 (TES) > 2 
+  - mean_group2 (GFP) > 2 
+
+ORIGINAL DMR COUNTS:
+  Total: 31905 
+  Hypermethylated: 29031 ( 91 %)
+  Hypomethylated: 2874 ( 9 %)
+
+HIGH-CONFIDENCE DMR COUNTS:
+  Total: 2015 
+  Hypermethylated: 702 ( 34.8 %)
+  Hypomethylated: 1313 ( 65.2 %)
+
+RETENTION STATISTICS:
+  DMRs retained: 2015 / 31905 ( 6.3 %)
+  DMRs removed: 29890 ( 93.7 %)
+
+KEY FINDING:
+  The direction of differential methylation REVERSES when
+  filtering for high-confidence DMRs with signal in both samples!
+  Original: 91% hyper / 9% hypo
+  Filtered: 34.8% hyper / 65.2% hypo
+
+INTERPRETATION:
+  The apparent 91% hypermethylation in the original data is largely
+  an artifact of GFP sample dropout (low library complexity).
+  When both samples have meaningful signal, hypomethylation dominates.

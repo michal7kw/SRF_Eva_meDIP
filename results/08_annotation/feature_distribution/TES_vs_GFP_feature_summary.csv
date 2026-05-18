@@ -1,0 +1,10 @@
+"feature_simple","All_DMRs_n","Hypermethylated_n","Hypomethylated_n","All_DMRs_percentage","Hypermethylated_percentage","Hypomethylated_percentage"
+"Promoter",5827,5642,185,18.26,19.43,6.44
+"5' UTR",247,238,9,0.77,0.82,0.31
+"Exon",2592,2471,121,8.12,8.51,4.21
+"Intron",15191,13626,1565,47.61,46.94,54.45
+"3' UTR",1637,1548,89,5.13,5.33,3.1
+"Downstream",45,44,1,0.14,0.15,0.03
+"Distal Intergenic",6366,5462,904,19.95,18.81,31.45
+"Other",0,0,0,0,0,0
+"TOTAL",31905,29031,2874,100,100,100

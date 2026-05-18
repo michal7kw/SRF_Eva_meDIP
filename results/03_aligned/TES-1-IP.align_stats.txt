@@ -1,0 +1,6 @@
+23494843 reads; of these:
+  23494843 (100.00%) were paired; of these:
+    3730120 (15.88%) aligned concordantly 0 times
+    14858152 (63.24%) aligned concordantly exactly 1 time
+    4906571 (20.88%) aligned concordantly >1 times
+84.12% overall alignment rate

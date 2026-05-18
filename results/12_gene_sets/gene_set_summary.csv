@@ -1,0 +1,7 @@
+"Category","Number_of_genes","Mean_expression"
+"All genes",33967,440.42041961298
+"Highly expressed (top 25%)",8492,1643.71840481186
+"Lowly expressed (bottom 25%)",8492,3.21361470404961
+"Upregulated DEGs",3721,303.551499923602
+"Downregulated DEGs",3860,544.133083095179
+"Unchanged genes",26386,444.549820398354

@@ -1,0 +1,17 @@
+Sample: TESmut-1-INPUT
+Date: Tue Dec  9 12:50:59 AM CET 2025
+
+Input:
+  BAM file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/04_filtered/TESmut-1-INPUT_filtered_dedup.bam
+  BAM size: 2.2GiB
+  Total reads: 28295286
+
+Output:
+  BigWig file: /beegfs/scratch/ric.sessa/kubacki.michal/SRF_Eva_top/meDIP/results/05_bigwig/TESmut-1-INPUT_RPKM.bw
+  BigWig size: 132MiB
+
+Parameters:
+  Bin size: 10 bp
+  Normalization: RPKM
+  Effective genome size: 2913022398
+  Extend reads: Yes

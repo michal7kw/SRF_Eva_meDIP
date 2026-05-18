@@ -1,0 +1,23 @@
+Sample: TES-1-IP
+Date: Mon Dec  8 11:24:59 PM CET 2025
+
+Read Counts:
+  Initial reads: 46989686
+  After quality filtering: 29923788
+  After deduplication: 19064570
+
+Reads Removed:
+  By quality filters: 17065898
+  By deduplication: 10859218
+  Total removed: 27925116
+
+Percentages:
+  Retained (final/initial): 40.57%
+  Filtered by quality: 36.32%
+  Duplicates: 36.29%
+
+Filtering Criteria:
+  MAPQ threshold: 30
+  Properly paired: Required
+  Unmapped: Removed
+  Duplicates: Removed
